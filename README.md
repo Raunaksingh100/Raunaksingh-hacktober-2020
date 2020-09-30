@@ -1,9 +1,12 @@
 # hacktoberfest-2020 :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
+
  
  ![poster](https://github.com/Raunaksingh100/Raunaksingh-hacktober-2020/blob/master/2020.PNG)
 
-
+# Why hacktober?
+Hacktober main motto was to give programmers a new way.
+Hacktober is organized every year. The another main motto is if you didn't win you learn something new
 # What is Hacktoberfest?
 Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 
