@@ -68,11 +68,10 @@ Step 3 - Template for contributions.
 
 ### Introduction :sunglasses:
 
-**Your name**: Harshit Bhalla
+**Your name**: Abhishek Kumar Jha
 
-**Your GitHub id**: [@harshitsan](https://github.com/harshitsan)
-
-**Your location**: Ambala City
+**Your GitHub id**: [@AbhishekJha1916](https://github.com/AbhishekJha1916)
+**Your location**: Prayagraj, U.P.
 
 
 ### About You :boy:
