@@ -14,31 +14,57 @@ All backgrounds and skill levels are encouraged to complete the challenge.
 * You can sign up anytime between October 1 and October 31.
 * In order to be eligible to get a free Hacktober Fest T-Shirt you need to create 4 PR's during this month.
 
-## Steps to follow :scroll-
+# Rules
+To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
-### Register for Hacktoberfest
+Read the participation details to learn how to earn your Hacktoberfest tee or tree reward.
+
+# Global events
+Celebrate and support open source technology by organizing or attending a virtual event in October.
+
+OCTOBER 01 ----- Open Source Friday - Hacktoberfest Virtual Meetup specialAPAC Region, APAC Region
+
+OCTOBER 01 ----- Official DigitalOcean Hacktoberfest Kick-Off CelebrationAPAC Region, India
+
+OCTOBER 06 ----- Hacktoberfest Tuesdays: AmericasNew York, United States
+
+OCTOBER 08 ----- Official DigitalOcean Hacktoberfest CelebrationEMEA Region
+
+OCTOBER 13 ----- Hacktoberfest Tuesdays: AsiaSingapore, Singapore
+
+OCTOBER 15 ----- Official DigitalOcean Hacktoberfest CelebrationAmercias Region
+
+OCTOBER 20 ----- Hacktoberfest Tuesdays: IsraelTel Aviv, Israel
+
+OCTOBER 27 ----- Hacktoberfest Tuesdays: EuropeLondon, United Kingdom
+
+## Steps to follow :
+
+
+Step 1 - Register for Hacktoberfest :
 You can register from [here](https://hacktoberfest.digitalocean.com).
 
-# How to Contribute :question:
+Step 2 - How to Contribute :question :
 
-:one: Fork the repository!
+ -> 1: Fork the repository!
+       == 
 
-:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
+ -> 2: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
 
-:three: Commit the changes!
+ -> 3: Commit the changes!
 
-:four: Push the changes!
+ -> 4: Push the changes!
 
-:five: Make a pull request.!
+ -> 5: Make a pull request.!
 
-:six: Star this repository.!
+ -> 6: Star this repository.!
 
-:seven: Wait for your PR to be merged.!
+ -> 7: Wait for your PR to be merged.!
 
-:eight: Celebrate - you've done your first pull request!!!!!
+ -> 8: Celebrate - you've done your first pull request!!!!!
 
 
-## Template for contributions :clipboard:
+Step 3 - Template for contributions.
 
 ### Introduction :sunglasses:
 
@@ -48,11 +74,10 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 **Your location**: Ambala City
 
+
 ### About You :boy:
 
 Anything about yourself!
-
-___
 
 ## Ready, Steady, Go... :turtle: :rabbit2:
 ### Give this Project a Star :star:
