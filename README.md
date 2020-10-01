@@ -5,7 +5,14 @@ This repository is for beginners who want to learn how to make a **Pull Request*
 
 
 # What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, 
+or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
+All backgrounds and skill levels are encouraged to complete the challenge.
+
+* Hacktoberfest is a celebration open to everyone in our global community.
+* Pull requests can be made in any GitHub-hosted repositories/projects.
+* You can sign up anytime between October 1 and October 31.
+* In order to be eligible to get a free Hacktober Fest T-Shirt you need to create 4 PR's during this month.
 
 ## Steps to follow :scroll-
 
