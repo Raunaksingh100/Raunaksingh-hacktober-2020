@@ -1,10 +1,13 @@
 # hacktoberfest-2020Get a free T-shirt and Stickers!
 :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
+
  
  ![poster](https://github.com/Raunaksingh100/Raunaksingh-hacktober-2020/blob/master/2020.PNG)
 
-
+# Why hacktober?
+Hacktober main motto was to give programmers a new way.
+Hacktober is organized every year. The another main motto is if you didn't win you learn something new
 # What is Hacktoberfest?
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, 
 or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
