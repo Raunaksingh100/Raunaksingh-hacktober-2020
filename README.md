@@ -1,4 +1,5 @@
-# hacktoberfest-2020 :rocket:
+# hacktoberfest-2020Get a free T-shirt and Stickers!
+:rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
  
  ![poster](https://github.com/Raunaksingh100/Raunaksingh-hacktober-2020/blob/master/2020.PNG)
