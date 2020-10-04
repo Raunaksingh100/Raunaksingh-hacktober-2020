@@ -72,11 +72,10 @@ Step 3 - Template for contributions.
 
 ### Introduction :sunglasses:
 
-**Your name**: Abhishek Kumar Jha
+**Your name**:Raunak singh
 
-**Your GitHub id**: [@AbhishekJha1916](https://github.com/AbhishekJha1916)
-**Your location**: Prayagraj, U.P.
-
+**Your GitHub id**:.....................
+**Your location**:..........................
 
 ### About You :boy:
 
