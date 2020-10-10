@@ -72,7 +72,7 @@ Step 3 - Template for contributions.
 
 ### Introduction :sunglasses:
 
-**Your name**:Raunak singh
+**Your name**:namrata
 
 **Your GitHub id**:.....................
 **Your location**:..........................
