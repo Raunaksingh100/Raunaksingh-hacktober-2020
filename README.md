@@ -19,9 +19,12 @@ All backgrounds and skill levels are encouraged to complete the challenge.
 * In order to be eligible to get a free Hacktober Fest T-Shirt you need to create 4 PR's during this month.
 
 # Rules
-To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
-
-Read the participation details to learn how to earn your Hacktoberfest tee or tree reward.
+To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs).
+i.Pull requests can be made in any participating GitHub-hosted repositories or projects.
+ii.Maintainers can opt-in to participate by classifying their projects with the hacktoberfest topic.
+iii.Your pull requests will count toward your participation if they are in a repository with the hacktoberfest topic, and once they have been merged, approved by a maintainer or labeled as hacktoberfest-accepted.
+iv.Additionally, any pull request with the hacktoberfest-accepted label submitted to any public GitHub repository, with or without the hacktoberfest topic, will be considered valid for Hacktoberfest.
+v.You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 # Global events
 Celebrate and support open source technology by organizing or attending a virtual event in October.
