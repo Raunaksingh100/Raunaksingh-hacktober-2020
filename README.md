@@ -72,12 +72,12 @@ Step 3 - Template for contributions.
 
 ### Introduction :sunglasses:
 
-**Your name**:Raunak singh
+**Your name**:Rohit Raj
 
-**Your GitHub id**:.....................
-**Your location**:..........................
+**Your GitHub id**:r0hitraj
+**Your location**:Patna,india
 
-### About You :boy:
+### About You : I am a Prefinalyear Informtion Technoogy Undergrad
 
 Anything about yourself!
 
