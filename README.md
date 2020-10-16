@@ -77,7 +77,7 @@ Step 3 - Template for contributions.
 **Your GitHub id**:r0hitraj
 **Your location**:Patna,india
 
-### About You : I am a Prefinalyear Informtion Technoogy Undergrad
+### About You : I am a Prefinalyear Informtion Technology Undergrad
 
 Anything about yourself!
 
