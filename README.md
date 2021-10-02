@@ -1,9 +1,9 @@
 # hacktoberfest-2020 Get a free T-shirt and Stickers!
 :rocket:
-This repository is for beginners who want to learn how to make a **Pull Request**.  Enjoy :)
+This repository is for beginners who want to learn how to make a **Pull Request** :)
 
  
- ![poster](https://github.com/Raunaksingh100/Raunaksingh-hacktober-2020/blob/master/2020.PNG)
+ ![poster](https://github.com/Raunaksingh100/Raunaksingh-hacktober-2020/blob/master/half.PNG)
 
 # Why hacktober?
 The main motto of Hacktober was to give programmers a new way.
